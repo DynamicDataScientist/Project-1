@@ -9,7 +9,7 @@ High churn rates can indicate dissatisfaction with the product or service, poor 
 
 ## Dataset
 
-The dataset used in this project is [Data Source](https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction/data).
+The dataset used in this project is [Data Source](https://github.com/DynamicDataScientist/Project-1/blob/main/Churn_Modelling.csv)
 
 It contains the following features: 
 
